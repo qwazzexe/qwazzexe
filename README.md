@@ -31,19 +31,20 @@
 
 ---
 
-# 👋 Merhaba! Ben **Ege Can Polat** (QwaZz)
+# 👋 Merhaba! Ben **Yiğit ege CANPOLAT** (QwaZz)
 **Kısa:** 15 yaşında geliştirici, Unity ile oyun, Flutter ile sosyal uygulamalar, C++ ile performans işleri.  
-**Yaklaşım:** Hızlı prototiple, sonra mükemmelleştir. Hileye geçit yok — adını QwaZzGuard koydum.  
+**Yaklaşım:** Hızlı prototiple, sonra mükemmelleştir. Hileye geçit yok — adını Auron koydum.  
 **Motto:** *"Kod anlaşılmalı; kopyalanmamalı."*
 
 ---
 
 ## 🚀 Neler Yapıyorum
 - Unity (2D/3D) — Mobil & VR (Meta Quest 3)
-- Oyun içi anti-hile sistemleri (QwaZzGuard)
+- Oyun içi anti-hile sistemleri (Auron)
 - Flutter — QwaZz Social
 - C++ & Mod geliştirme
-- Video edit + içerik üretimi (CapCut)
+- Video edit + içerik üretimi (After effects)
+- Web developing (PHP)
 
 ---
 
@@ -86,18 +87,4 @@ Kullanıcı tarafı overlay takibi, event-based anti-hile mantığı (açık kay
 - E-posta: `contact@qwazz.com.tr`  
 - Discord: `qwazz`  
 - Web: [https://qwazz.com.tr](https://qwazz.com.tr)
-
----
-
-## 🔧 Özelleştirme Hızlı Rehberi
-1. Repo linkleri güncel, ama yeni projeler eklediğinde yukarıya ekle.
-2. Badge'leri daha fazla teknolojiyle genişlet: [shields.io](https://shields.io/) üzerinden hızlıca oluşturabilirsin.
-3. SVG başlığı istersen renklerini değiştirebilirim (neon, retro, vs.).
-
----
-
-## Son Not
-Bu README hem profesyonel duruşu hem de biraz havayı (hava atma modu: on) taşıyacak şekilde hazırlandı.  
-
-> Küçük espri: Profilin README'si güzel olursa insanlar projelerine bakmadan star basmaya geliyorlar — ama sen zaten işini iyi yaptığın için ona gerek yok. 😉
 
