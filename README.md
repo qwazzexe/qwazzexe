@@ -31,7 +31,7 @@
 
 ---
 
-# 👋 Merhaba! Ben **Yiğit ege CANPOLAT** (QwaZz)
+# 👋 Merhaba! Ben **Yiğit Ege CANPOLAT** (QwaZz)
 **Kısa:** 15 yaşında geliştirici, Unity ile oyun, Flutter ile sosyal uygulamalar, C++ ile performans işleri.  
 **Yaklaşım:** Hızlı prototiple, sonra mükemmelleştir. Hileye geçit yok — adını Auron koydum.  
 **Motto:** *"Kod anlaşılmalı; kopyalanmamalı."*
@@ -39,12 +39,12 @@
 ---
 
 ## 🚀 Neler Yapıyorum
-- Unity (2D/3D) — Mobil & VR (Meta Quest 3)
-- Oyun içi anti-hile sistemleri (Auron)
-- Flutter — QwaZz Social
-- C++ & Mod geliştirme
-- Video edit + içerik üretimi (After effects)
-- Web developing (PHP)
+- Unity (2D/3D) — Mobil & VR (Meta Quest 3)  
+- Oyun içi anti-hile sistemleri (Auron)  
+- Flutter — QwaZz Social  
+- C++ & Mod geliştirme  
+- Video edit + içerik üretimi (After Effects)  
+- Web geliştirme (PHP)
 
 ---
 
@@ -68,8 +68,8 @@ Yarış ve ödül — puan bazlı ödül sistemi, gerçek hediyeler ve ünvanlar
 
 ## 📈 GitHub İstatistiklerim
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=QwaZzDev&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwaZzDev&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qwazzexe&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwazzexe&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -79,3 +79,16 @@ Yarış ve ödül — puan bazlı ödül sistemi, gerçek hediyeler ve ünvanlar
 - Discord: `qwazz`  
 - Web: [https://qwazz.com.tr](https://qwazz.com.tr)
 
+---
+
+## 🔧 Özelleştirme Hızlı Rehberi
+1. Projelerin ya da iletişim bilgilerin değişirse güncelle.  
+2. İstersen badge’lere yenilerini ekle.  
+3. SVG başlığı neon, retro, vs. gibi özelleştirilebilir, haber ver.
+
+---
+
+## Son Not  
+Profil README’n hem güçlü hem şık oldu. Göz kamaştırmaya hazır! ✨  
+
+> Not: Profil README’si etkili olunca insanlar projelerine bakmadan star basabilir, ama sen zaten zirvedesin. 😉  
