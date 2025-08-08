@@ -61,17 +61,8 @@
 
 ## ⭐ Öne Çıkan Projeler
 
-### 🔧 [Final Ascent](https://github.com/QwaZzDev/Final-Ascent)  
-2D platform oyunu — puan bazlı ödül sistemi, gerçek hediyeler ve ünvanlar.  
-**Stack:** Unity, C#, QwaZzGuard (anti-hile)
-
-### 📱 [QwaZz Social](https://github.com/QwaZzDev/QwaZz-Social)  
-Flutter ile yapılmış sosyal medya prototipi — hızlı, hafif ve bilet odaklı.  
-**Stack:** Flutter, Firebase
-
-### 🛡️ [QwaZzGuard (Demo)](https://github.com/QwaZzDev/QwaZzGuard)  
-Kullanıcı tarafı overlay takibi, event-based anti-hile mantığı (açık kaynak demo).  
-**Stack:** C++, Unity-Overlay
+### 🔧 [QwaZz Developer Panel](https://qwazz.com.tr/)  
+Yarış ve ödül — puan bazlı ödül sistemi, gerçek hediyeler ve ünvanlar.
 
 ---
 
