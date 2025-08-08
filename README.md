@@ -55,8 +55,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Php-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
 ---
@@ -89,8 +88,3 @@ Yarış ve ödül — puan bazlı ödül sistemi, gerçek hediyeler ve ünvanlar
 3. SVG başlığı neon, retro, vs. gibi özelleştirilebilir, haber ver.
 
 ---
-
-## Son Not  
-Profil README’n hem güçlü hem şık oldu. Göz kamaştırmaya hazır! ✨  
-
-> Not: Profil README’si etkili olunca insanlar projelerine bakmadan star basabilir, ama sen zaten zirvedesin. 😉  
