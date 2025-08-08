@@ -1,6 +1,5 @@
 <!-- =========================
      QwaZz - Şık GitHub README
-     Özelleştir: REPLACE_ME olan yerleri değiştir
    ========================= -->
 
 <!-- Animated header (inline SVG) -->
@@ -32,7 +31,7 @@
 
 ---
 
-# 👋 Merhaba! Ben **REPLACE_ME** (QwaZz)
+# 👋 Merhaba! Ben **Ege Can Polat** (QwaZz)
 **Kısa:** 15 yaşında geliştirici, Unity ile oyun, Flutter ile sosyal uygulamalar, C++ ile performans işleri.  
 **Yaklaşım:** Hızlı prototiple, sonra mükemmelleştir. Hileye geçit yok — adını QwaZzGuard koydum.  
 **Motto:** *"Kod anlaşılmalı; kopyalanmamalı."*
@@ -60,50 +59,45 @@
 ---
 
 ## ⭐ Öne Çıkan Projeler
-> Repo adlarını `REPLACE_REPO_1` gibi bırakıyorum — kendi repolarınla değiştir.
 
-### 🔧 [Final Ascent](https://github.com/REPLACE_ME/REPLACE_REPO_1)  
+### 🔧 [Final Ascent](https://github.com/QwaZzDev/Final-Ascent)  
 2D platform oyunu — puan bazlı ödül sistemi, gerçek hediyeler ve ünvanlar.  
 **Stack:** Unity, C#, QwaZzGuard (anti-hile)
 
-### 📱 [QwaZz Social](https://github.com/REPLACE_ME/REPLACE_REPO_2)  
+### 📱 [QwaZz Social](https://github.com/QwaZzDev/QwaZz-Social)  
 Flutter ile yapılmış sosyal medya prototipi — hızlı, hafif ve bilet odaklı.  
 **Stack:** Flutter, Firebase
 
-### 🛡️ [QwaZzGuard (Demo)](https://github.com/REPLACE_ME/REPLACE_REPO_3)  
+### 🛡️ [QwaZzGuard (Demo)](https://github.com/QwaZzDev/QwaZzGuard)  
 Kullanıcı tarafı overlay takibi, event-based anti-hile mantığı (açık kaynak demo).  
 **Stack:** C++, Unity-Overlay
 
 ---
 
 ## 📈 GitHub İstatistiklerim
-> Bu görseller otomatik güncellenir (GitHub Readme Stats). `REPLACE_ME` kısmını GitHub kullanıcı adınla değiştir.
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=REPLACE_ME&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_ME&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=QwaZzDev&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwaZzDev&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 📫 İletişim
-- E-posta: `REPLACE_EMAIL`  
-- Discord: `REPLACE_DISCORD`  
-- Web: `https://qwazz.com.tr` (varsa)
+- E-posta: `contact@qwazz.com.tr`  
+- Discord: `qwazz`  
+- Web: [https://qwazz.com.tr](https://qwazz.com.tr)
 
 ---
 
 ## 🔧 Özelleştirme Hızlı Rehberi
-1. `REPLACE_ME` → GitHub kullanıcı adın / gerçek adın.  
-2. `REPLACE_REPO_1/2/3` → gerçek repo isimlerin.  
-3. `REPLACE_EMAIL`, `REPLACE_DISCORD` → iletişim bilgilerin.  
-4. Başlıktaki SVG'yi değiştirmek istersen tek satırda `QwaZz` yazısını düzenle — SVG inline olduğu için GitHub doğrudan gösterir.  
-5. Badge'leri daha fazla teknolojiyle genişlet: `https://img.shields.io` üzerinden hızlıca oluşturabilirsin.
+1. Repo linkleri güncel, ama yeni projeler eklediğinde yukarıya ekle.
+2. Badge'leri daha fazla teknolojiyle genişlet: [shields.io](https://shields.io/) üzerinden hızlıca oluşturabilirsin.
+3. SVG başlığı istersen renklerini değiştirebilirim (neon, retro, vs.).
 
 ---
 
 ## Son Not
-Bu README hem profesyonel duruşu hem de biraz havayı (hava atma modu: on) taşıyacak şekilde hazırlandı. İstersen ben bunu doğrudan senin kullanıcı adına göre özelleştirip alanları doldururum — sadece `kullanıcı adın`, `e-posta` ve 3 repo ismi ver yeter. 😏
+Bu README hem profesyonel duruşu hem de biraz havayı (hava atma modu: on) taşıyacak şekilde hazırlandı.  
 
 > Küçük espri: Profilin README'si güzel olursa insanlar projelerine bakmadan star basmaya geliyorlar — ama sen zaten işini iyi yaptığın için ona gerek yok. 😉
 
