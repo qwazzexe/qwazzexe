@@ -15,7 +15,7 @@
     <rect width="1200" height="140" fill="#0b1020"/>
     <g font-family="Segoe UI, Roboto, Arial" font-weight="700" font-size="42" fill="url(#g)">
       <text x="60" y="70" opacity="0.95">QwaZz</text>
-      <text x="60" y="110" font-size="18" fill="#b9c2d8" opacity="0.9">Full Stack & Game Dev · Unity · C++ · Flutter · Modding</text>
+      <text x="60" y="110" font-size="18" fill="#b9c2d8" opacity="0.9">Full Stack & Game Dev · Unity · C++ · Flutter · OpenTools</text>
     </g>
     <!-- subtle moving circles -->
     <g opacity="0.06" fill="#fff">
