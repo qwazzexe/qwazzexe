@@ -70,7 +70,7 @@ Yarış ve ödül — puan bazlı ödül sistemi, gerçek hediyeler ve ünvanlar
 ## 📈 GitHub İstatistiklerim
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qwazzexe&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwazzexes&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwazzexe&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
