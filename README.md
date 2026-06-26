@@ -62,7 +62,7 @@
 
 ## ⭐ Öne Çıkan Projeler
 
-### 🔧 [QwaZz Developer Panel](https://qwazz.com.tr/)  
+### 🔧 [QwaZz Developer Panel](https://qwazz.com/)  
 Yarış ve ödül — puan bazlı ödül sistemi, gerçek hediyeler ve ünvanlar.
 
 ---
@@ -76,6 +76,6 @@ Yarış ve ödül — puan bazlı ödül sistemi, gerçek hediyeler ve ünvanlar
 ---
 
 ## 📫 İletişim
-- E-posta: `contact@qwazz.com.tr`  
+- E-posta: `contact@qwazz.com`  
 - Discord: `qwazz`  
-- Web: [https://qwazz.com.tr](https://qwazz.com.tr)
+- Web: [https://qwazz.com](https://qwazz.com)
